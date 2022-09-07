@@ -27,3 +27,6 @@ for task 10, a script that displays the result of BREATH to the power LOVE
 
 
 for task 11, binary to decimal
+
+
+for task 12, 12 combinations
