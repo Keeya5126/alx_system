@@ -15,3 +15,5 @@ for task 4, we are creating a script that lists environment variables
 for task 5 , ww are creating a script that lists all local variables and environment variables, and functions
 
 for task 6, we are creating a script that creates a new local variable
+
+for task 7, wea re creating a script that creates a new global variable
