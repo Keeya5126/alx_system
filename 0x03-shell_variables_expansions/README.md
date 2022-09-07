@@ -6,3 +6,5 @@ Value: rm*
 
 
 for task 1, we are creating the hello you
+
+for task 2, we are creating a  script that counts the number of directories in the PATH
