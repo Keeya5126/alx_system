@@ -11,3 +11,5 @@ for task 2, we are creating a  script that counts the number of directories in t
 
 
 for task 4, we are creating a script that lists environment variables
+
+for task 5 , ww are creating a script that lists all local variables and environment variables, and functions
