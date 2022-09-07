@@ -24,3 +24,6 @@ for task 8, a script that prints the result of the addition of 128 with the valu
 for task 9, we divide and rule
 
 for task 10, a script that displays the result of BREATH to the power LOVE
+
+
+for task 11, binary to decimal
